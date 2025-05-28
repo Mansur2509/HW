@@ -2,6 +2,8 @@ import { useState, useEffect } from "react";
 import "./App.css";
 import { products } from "./data/data";
 import El from "./Element";
+import { Link } from "react-router-dom";
+import Router_Father from "./router/Router_M";
 
 const App = () => {
   const [info, setInfo] = useState(null);
@@ -23,9 +25,9 @@ const App = () => {
   }, []);
 
   return (
-    <div className="Grid">
-      {products.map((prod)=>(<El key={prod.id} products={prod }/>))}
-    </div>
+    <>
+      <Router_Father />
+    </>
   );
 };
 

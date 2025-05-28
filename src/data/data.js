@@ -1,5 +1,5 @@
 export  const products = [
-  {
+  { to:'/1',//////////////////////////////////////////////////////////////////!
     id: 1,
     title: "Essence Mascara Lash Princess",
     description:
@@ -54,7 +54,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
   },
-  {
+  { to:'/2',//////////////////////////////////////////////////////////////////!
     id: 2,
     title: "Eyeshadow Palette with Mirror",
     description:
@@ -109,7 +109,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
   },
-  {
+  { to:'/3',//////////////////////////////////////////////////////////////////!
     id: 3,
     title: "Powder Canister",
     description:
@@ -164,7 +164,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
   },
-  {
+  { to:'/4',//////////////////////////////////////////////////////////////////!
     id: 4,
     title: "Red Lipstick",
     description:
@@ -219,7 +219,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
   },
-  {
+  { to:'/5',//////////////////////////////////////////////////////////////////!
     id: 5,
     title: "Red Nail Polish",
     description:
@@ -274,7 +274,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
   },
-  {
+  { to:'/6',//////////////////////////////////////////////////////////////////!
     id: 6,
     title: "Calvin Klein CK One",
     description:
@@ -335,7 +335,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
   },
-  {
+  { to:'/7',//////////////////////////////////////////////////////////////////!
     id: 7,
     title: "Chanel Coco Noir Eau De",
     description:
@@ -396,7 +396,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
   },
-  {
+  { to:'/8',//////////////////////////////////////////////////////////////////!
     id: 8,
     title: "Dior J'adore",
     description:
@@ -457,7 +457,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
   },
-  {
+  { to:'/9',//////////////////////////////////////////////////////////////////!
     id: 9,
     title: "Dolce Shine Eau de",
     description:
@@ -518,7 +518,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
   },
-  {
+  { to:'/10',//////////////////////////////////////////////////////////////////!
     id: 10,
     title: "Gucci Bloom Eau de",
     description:
@@ -579,7 +579,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
   },
-  {
+  {to:'/11',//////////////////////////////////////////////////////////////////!
     id: 11,
     title: "Annibale Colombo Bed",
     description:
@@ -636,7 +636,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
   },
-  {
+  {to:'/12',//////////////////////////////////////////////////////////////////!
     id: 12,
     title: "Annibale Colombo Sofa",
     description:
@@ -693,7 +693,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
   },
-  {
+  {to:'/13',//////////////////////////////////////////////////////////////////!
     id: 13,
     title: "Bedside Table African Cherry",
     description:
@@ -750,7 +750,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
   },
-  {
+  {to:'/14',//////////////////////////////////////////////////////////////////!
     id: 14,
     title: "Knoll Saarinen Executive Conference Chair",
     description:
@@ -807,7 +807,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
   },
-  {
+  {to:'/15',//////////////////////////////////////////////////////////////////!
     id: 15,
     title: "Wooden Bathroom Sink With Mirror",
     description:
@@ -864,7 +864,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
   },
-  {
+  {to:'/16',//////////////////////////////////////////////////////////////////!
     id: 16,
     title: "Apple",
     description:
@@ -920,7 +920,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
   },
-  {
+  {to:'/17',//////////////////////////////////////////////////////////////////!
     id: 17,
     title: "Beef Steak",
     description:
@@ -978,7 +978,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
   },
-  {
+  {to:'/18',//////////////////////////////////////////////////////////////////!
     id: 18,
     title: "Cat Food",
     description:
@@ -1036,7 +1036,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
   },
-  {
+  {to:'/19',//////////////////////////////////////////////////////////////////!
     id: 19,
     title: "Chicken Meat",
     description:
@@ -1095,7 +1095,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
   },
-  {
+  {to:'/20',//////////////////////////////////////////////////////////////////!
     id: 20,
     title: "Cooking Oil",
     description:
@@ -1153,7 +1153,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
   },
-  {
+  {to:'/21',//////////////////////////////////////////////////////////////////!
     id: 21,
     title: "Cucumber",
     description:
@@ -1211,7 +1211,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
   },
-  {
+  {to:'/22',//////////////////////////////////////////////////////////////////!
     id: 22,
     title: "Dog Food",
     description:
@@ -1269,7 +1269,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
   },
-  {
+  {to:'/23',//////////////////////////////////////////////////////////////////!
     id: 23,
     title: "Eggs",
     description:
@@ -1325,7 +1325,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
   },
-  {
+  {to:'/24',//////////////////////////////////////////////////////////////////!
     id: 24,
     title: "Fish Steak",
     description:
@@ -1383,7 +1383,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
   },
-  {
+  {to:'/25',//////////////////////////////////////////////////////////////////!
     id: 25,
     title: "Green Bell Pepper",
     description:
@@ -1441,7 +1441,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
   },
-  {
+  {to:'/26',//////////////////////////////////////////////////////////////////!
     id: 26,
     title: "Green Tea",
     description:
@@ -1499,7 +1499,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/green-tea/thumbnail.webp",
   },
-  {
+  {to:'/27',//////////////////////////////////////////////////////////////////!
     id: 27,
     title: "Honey",
     description: "Pure and natural honey sourced from organic farms.",
@@ -1554,7 +1554,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/honey/thumbnail.webp",
   },
-  {
+  {to:'/28',//////////////////////////////////////////////////////////////////!
     id: 28,
     title: "Hot Dogs",
     description:
@@ -1612,7 +1612,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/hot-dogs/thumbnail.webp",
   },
-  {
+  {to:'/29',//////////////////////////////////////////////////////////////////!
     id: 29,
     title: "Jasmine Rice",
     description:
@@ -1670,7 +1670,7 @@ export  const products = [
     thumbnail:
       "https://cdn.dummyjson.com/product-images/groceries/jasmine-rice/thumbnail.webp",
   },
-  {
+  {to:'/30',//////////////////////////////////////////////////////////////////!
     id: 30,
     title: "Lady Finger",
     description:
@@ -1729,3 +1729,4 @@ export  const products = [
       "https://cdn.dummyjson.com/product-images/groceries/lady-finger/thumbnail.webp",
   },
 ];
+
